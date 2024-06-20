@@ -19,7 +19,7 @@ step 1:- select your shortner 👇👇
 
 2. Go To 👉 https://tulinks.in/member/tools/api
 3. Than Copy API Key
-4. Than Type /api than give a single space and than paste your API Key (see example to understand more...)
+4. Than Type /shortener_api than give a single space and than paste your API Key (see example to understand more...)
 
 ➕ Hit 👉 /help To Get Help.
 ➕ Hit 👉 /footer To Get Help About Adding your Custom Footer to bot.
